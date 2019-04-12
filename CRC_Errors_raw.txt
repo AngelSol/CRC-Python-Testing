@@ -1,0 +1,120 @@
+Number of errors generated: 1 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:15.773000
+
+Number of errors generated: 2 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:16.171000
+
+Number of errors generated: 3 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:15.375000
+
+Number of errors generated: 4 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:15.629000
+
+Number of errors generated: 5 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:16.311000
+
+Number of errors generated: 6 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:17.105000
+
+Number of errors generated: 7 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:16.381000
+
+Number of errors generated: 8 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:16.476000
+
+Number of errors generated: 9 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:16.584000
+
+Number of errors generated: 10 String lengths: 6
+0/500000 errors were not detected
+Runtime = 0:00:19.409000
+
+Number of errors generated: 1 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:21.220000
+
+Number of errors generated: 2 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:21.470000
+
+Number of errors generated: 3 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:20.423000
+
+Number of errors generated: 4 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:21.057000
+
+Number of errors generated: 5 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:22.065000
+
+Number of errors generated: 6 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:22.847000
+
+Number of errors generated: 7 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:22.867000
+
+Number of errors generated: 8 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:21.877000
+
+Number of errors generated: 9 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:21.856000
+
+Number of errors generated: 10 String lengths: 8
+0/500000 errors were not detected
+Runtime = 0:00:22.553000
+
+Number of errors generated: 1 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:39.889000
+
+Number of errors generated: 2 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:39.734000
+
+Number of errors generated: 3 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:42.458000
+
+Number of errors generated: 4 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:41.266000
+
+Number of errors generated: 5 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:41.357000
+
+Number of errors generated: 6 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:40.673000
+
+Number of errors generated: 7 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:41.011000
+
+Number of errors generated: 8 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:41.868000
+
+Number of errors generated: 9 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:44.368000
+
+Number of errors generated: 10 String lengths: 16
+0/500000 errors were not detected
+Runtime = 0:00:42.748000
+
